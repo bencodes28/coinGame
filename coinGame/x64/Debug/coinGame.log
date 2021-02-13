@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Coin.cpp
+  main.cpp
+c:\users\saveh\source\repos\coingame\coingame\coingame\main.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\saveh\source\repos\coingame\coingame\coingame\main.cpp(137): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+c:\users\saveh\source\repos\coingame\coingame\coingame\main.cpp(135): warning C4715: 'startGame': not all control paths return a value
+  coinGame.vcxproj -> C:\Users\saveh\source\repos\coinGame\coinGame\x64\Debug\coinGame.exe
