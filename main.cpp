@@ -63,7 +63,7 @@ void callStart() {
 }
 
 bool startGame() {
-	Balance = 0; //reset total balance
+	Balance = 0; //reset the total balance here.
 	int roundCount = 0; // reset
 
 	while (in != 'Q' && Balance < 100) {
